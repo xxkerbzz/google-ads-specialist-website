@@ -17,6 +17,9 @@ export const metadata: Metadata = {
   description: "Expert Google Ads management for local service businesses. Specializing in HVAC, plumbing, electrical, roofing, and home services. Generate more qualified leads with proven strategies.",
   keywords: ["Google Ads specialist", "local lead generation", "Google Ads for service businesses", "PPC management", "Local Service Ads", "HVAC marketing", "plumbing leads"],
   authors: [{ name: "LeadGen Ads" }],
+  verification: {
+    google: "I-jgcFNuUfT_KDRUQRKOnS7SRWo7qGDtZMWxhNlmX88",
+  },
   openGraph: {
     title: "Google Ads Specialist for Service Businesses",
     description: "Turn Google Ads into a predictable lead machine. Expert management for local service businesses.",
