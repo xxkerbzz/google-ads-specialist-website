@@ -1,0 +1,285 @@
+{
+  "siloName": "Campaign Types & Strategies",
+  "siloNumber": 2,
+  "siloPurpose": "Establish authority on Google Ads campaign types for service businesses",
+  "targetAudience": "Service business owners evaluating campaign options",
+  "contentPriority": "Tier 1 - High",
+  "estimatedTraffic": "3,500+ visitors/month by month 12",
+
+  "pillars": [
+    {
+      "pillarNumber": 1,
+      "title": "Google Search Ads for Service Businesses",
+      "url": "/resources/campaigns/google-search-ads-for-service-businesses",
+      "primaryKeyword": "google search ads for service businesses",
+      "secondaryKeywords": ["service business google ads", "ppc for service companies", "search ads setup"],
+      "wordCount": "3,200-3,800",
+      "h1": "Google Search Ads for Service Businesses: Complete Guide",
+      "metaTitle": "Google Search Ads for Service Businesses | PPC Management Guide",
+      "metaDescription": "Master Google Search Ads for your service business. Setup, optimization, and proven strategies to generate qualified leads. Expert tips and best practices.",
+
+      "contentOutline": {
+        "sections": [
+          {
+            "h2": "Why Search Ads Work for Service Businesses",
+            "topics": ["High purchase intent", "Local targeting capabilities", "Immediate visibility"],
+            "wordCount": "400-500"
+          },
+          {
+            "h2": "Search Campaign Setup for Service Companies",
+            "steps": [
+              "Account structure planning",
+              "Campaign settings configuration",
+              "Service-based ad groups",
+              "Location targeting setup",
+              "Budget allocation"
+            ],
+            "wordCount": "700-800"
+          },
+          {
+            "h2": "Keyword Strategy for Service Businesses",
+            "subsections": [
+              "Service-specific keywords",
+              "Emergency vs scheduled keywords",
+              "Local keyword modifiers",
+              "Negative keyword essentials"
+            ],
+            "wordCount": "600-700"
+          },
+          {
+            "h2": "Writing High-Converting Ad Copy",
+            "topics": ["Headlines that capture attention", "Description best practices", "Call-to-action optimization", "A/B testing framework"],
+            "wordCount": "500-600"
+          },
+          {
+            "h2": "Essential Ad Extensions for Service Businesses",
+            "extensions": [
+              "Call extensions (crucial for service businesses)",
+              "Location extensions",
+              "Sitelink extensions",
+              "Callout extensions",
+              "Structured snippets"
+            ],
+            "wordCount": "500-600"
+          },
+          {
+            "h2": "Bidding Strategies That Work",
+            "strategies": ["Manual CPC", "Target CPA", "Maximize Conversions", "Target ROAS"],
+            "wordCount": "500-600"
+          }
+        ]
+      },
+
+      "supportingArticles": [
+        {
+          "title": "Search Campaign Setup Guide for Service Companies",
+          "url": "/resources/campaigns/search-campaign-setup-guide",
+          "wordCount": "1,800-2,200",
+          "focus": "Step-by-step setup process"
+        },
+        {
+          "title": "Keyword Research for Service Businesses",
+          "url": "/resources/campaigns/keyword-research-service-businesses",
+          "wordCount": "1,600-2,000",
+          "focus": "Finding and selecting the right keywords"
+        },
+        {
+          "title": "Writing High-Converting Google Ads Copy",
+          "url": "/resources/campaigns/high-converting-ad-copy",
+          "wordCount": "1,400-1,800",
+          "focus": "Copywriting best practices and examples"
+        },
+        {
+          "title": "Ad Extensions Every Service Business Should Use",
+          "url": "/resources/campaigns/ad-extensions-guide",
+          "wordCount": "1,500-1,900",
+          "focus": "Extension types and setup"
+        },
+        {
+          "title": "Search Bid Strategy Optimization",
+          "url": "/resources/campaigns/bid-strategy-optimization",
+          "wordCount": "1,600-2,000",
+          "focus": "Choosing and optimizing bidding strategies"
+        }
+      ]
+    },
+
+    {
+      "pillarNumber": 2,
+      "title": "Local Service Ads Complete Guide",
+      "url": "/resources/campaigns/local-service-ads-guide",
+      "primaryKeyword": "local service ads",
+      "secondaryKeywords": ["google local service ads", "google guarantee", "LSA setup"],
+      "wordCount": "3,500-4,000",
+      "h1": "Local Service Ads: Complete Guide for Service Businesses",
+      "metaTitle": "Local Service Ads Guide | Get Google Guaranteed",
+      "metaDescription": "Complete Local Service Ads guide. Setup, optimization, and strategies to get more high-quality leads with the Google Guarantee badge.",
+
+      "contentOutline": {
+        "sections": [
+          {
+            "h2": "What Are Local Service Ads?",
+            "topics": ["LSA vs Search Ads", "Google Guarantee badge", "Pay-per-lead model", "Eligibility requirements"],
+            "wordCount": "500-600"
+          },
+          {
+            "h2": "How to Get Google Guaranteed",
+            "steps": [
+              "License verification",
+              "Insurance requirements",
+              "Background checks",
+              "Google Guarantee application"
+            ],
+            "wordCount": "600-700"
+          },
+          {
+            "h2": "LSA Profile Optimization",
+            "topics": ["Business information", "Service areas", "Job types", "Photos and videos", "Review management"],
+            "wordCount": "700-800"
+          },
+          {
+            "h2": "Managing Lead Quality",
+            "topics": ["Lead qualification", "Responding quickly", "Dispute process", "Quality signals"],
+            "wordCount": "600-700"
+          },
+          {
+            "h2": "LSA Budget Management",
+            "topics": ["Weekly budgets", "Cost per lead expectations", "Budget optimization", "Scaling strategies"],
+            "wordCount": "500-600"
+          }
+        ]
+      },
+
+      "supportingArticles": [
+        {
+          "title": "Local Service Ads vs Google Search Ads: Which is Better?",
+          "url": "/resources/campaigns/lsa-vs-search-ads",
+          "wordCount": "1,600-2,000",
+          "focus": "Comparison and recommendations"
+        },
+        {
+          "title": "How to Get Google Guaranteed for Local Service Ads",
+          "url": "/resources/campaigns/get-google-guaranteed",
+          "wordCount": "1,500-1,900",
+          "focus": "Step-by-step verification process"
+        },
+        {
+          "title": "LSA Profile Optimization: Complete Checklist",
+          "url": "/resources/campaigns/lsa-profile-optimization",
+          "wordCount": "1,700-2,100",
+          "focus": "Optimization checklist and best practices"
+        },
+        {
+          "title": "Managing and Improving LSA Lead Quality",
+          "url": "/resources/campaigns/lsa-lead-quality",
+          "wordCount": "1,400-1,800",
+          "focus": "Quality improvement strategies"
+        },
+        {
+          "title": "LSA Dispute Resolution: Getting Refunds for Bad Leads",
+          "url": "/resources/campaigns/lsa-dispute-resolution",
+          "wordCount": "1,300-1,700",
+          "focus": "Dispute process and best practices"
+        },
+        {
+          "title": "Local Service Ads Budget Management",
+          "url": "/resources/campaigns/lsa-budget-management",
+          "wordCount": "1,400-1,800",
+          "focus": "Budget optimization strategies"
+        }
+      ]
+    },
+
+    {
+      "pillarNumber": 3,
+      "title": "Display & Remarketing for Service Businesses",
+      "url": "/resources/campaigns/display-remarketing-service-businesses",
+      "primaryKeyword": "remarketing for service businesses",
+      "wordCount": "2,800-3,200",
+      "h1": "Display & Remarketing Strategies for Service Businesses",
+      "supportingArticleCount": 5
+    },
+
+    {
+      "pillarNumber": 4,
+      "title": "Call-Only Campaigns Guide",
+      "url": "/resources/campaigns/call-only-campaigns-guide",
+      "primaryKeyword": "call-only campaigns",
+      "wordCount": "2,400-2,800",
+      "h1": "Call-Only Campaigns: The Ultimate Guide for Service Businesses",
+      "supportingArticleCount": 4
+    },
+
+    {
+      "pillarNumber": 5,
+      "title": "Performance Max for Local Services",
+      "url": "/resources/campaigns/performance-max-local-services",
+      "primaryKeyword": "performance max for service businesses",
+      "wordCount": "2,600-3,000",
+      "h1": "Performance Max Campaigns for Local Service Businesses",
+      "supportingArticleCount": 4
+    }
+  ],
+
+  "buildPhasing": {
+    "phase1": {
+      "timeframe": "Month 2-3",
+      "content": ["Search Ads pillar", "LSA pillar (highest priority)"],
+      "rationale": "These are most searched and have highest commercial intent"
+    },
+    "phase2": {
+      "timeframe": "Month 3-4",
+      "content": ["Top 3 supporting articles for Search and LSA pillars"],
+      "rationale": "Build supporting content for main pillars"
+    },
+    "phase3": {
+      "timeframe": "Month 4-5",
+      "content": ["Display/Remarketing pillar", "Call-Only pillar"],
+      "rationale": "Secondary campaign types"
+    },
+    "phase4": {
+      "timeframe": "Month 5-6",
+      "content": ["Performance Max pillar", "All remaining supporting content"],
+      "rationale": "Complete the silo"
+    }
+  },
+
+  "crossSiloLinking": {
+    "toIndustrySilo": [
+      "Link Search Ads guide to each industry page",
+      "Link LSA guide to industry-specific LSA articles"
+    ],
+    "toConversionSilo": [
+      "Link all campaign types to conversion tracking setup",
+      "Link remarketing to pixel installation guide"
+    ],
+    "toBudgetSilo": [
+      "Link each campaign type to budget planning",
+      "Link bidding strategies to bid management silo"
+    ],
+    "toLocalLeadGen": [
+      "Link Search Ads to location targeting",
+      "Link Call-Only to mobile optimization"
+    ]
+  },
+
+  "successMetrics": {
+    "pillarPages": {
+      "LSApillar": {
+        "targetRanking": "Top 3 for 'local service ads' by month 9",
+        "estimatedTraffic": "1,000+ visitors/month",
+        "conversionRate": "6-8% (high intent)"
+      },
+      "SearchAdsPillar": {
+        "targetRanking": "Top 5 for 'google search ads for service businesses'",
+        "estimatedTraffic": "600+ visitors/month",
+        "conversionRate": "5-7%"
+      }
+    },
+    "overallSilo": {
+      "totalTraffic": "3,500+ visitors/month by month 12",
+      "leadGeneration": "20% of total website leads",
+      "topKeywords": "30+ keywords in top 10"
+    }
+  }
+}

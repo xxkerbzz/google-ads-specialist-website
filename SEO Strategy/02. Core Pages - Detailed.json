@@ -1,0 +1,393 @@
+{
+  "projectName": "LeadGen Ads - Google Ads Specialist",
+  "businessType": "Google Ads Management Service",
+  "targetAudience": "Service-based business owners (HVAC, Plumbing, Electrical, Roofing, Landscaping, Home Remodeling)",
+  "uniqueValueProposition": "Specialized Google Ads management for local service businesses with month-to-month contracts, transparent reporting, and proven results",
+  "brandVoice": "Professional but approachable, results-oriented, transparent, confident, direct",
+  "primaryColor": "#2563EB",
+  "secondaryColor": "Gray scale",
+  "coreCTAs": {
+    "primary": "Get Your Free Audit",
+    "secondary": "View Case Studies",
+    "tertiary": "Schedule Consultation"
+  },
+  "contactInfo": {
+    "email": "hello@leadgenads.com",
+    "phone": "(555) 123-4567",
+    "responseTime": "Within 24 hours"
+  },
+  "corePages": [
+    {
+      "pageType": "homepage",
+      "url": "/",
+      "title": "Google Ads Specialist | Local Lead Generation for Service Businesses",
+      "metaDescription": "Expert Google Ads management for local service businesses. Specializing in HVAC, plumbing, electrical, roofing, and home services. Generate more qualified leads with proven strategies.",
+      "h1": "Turn Google Ads Into A Predictable Lead Machine",
+      "sections": [
+        {
+          "type": "hero",
+          "headline": "Turn Google Ads Into A Predictable Lead Machine",
+          "subheadline": "I help service-based businesses dominate their local market with laser-targeted Google Ads campaigns that generate qualified leads while you sleep.",
+          "primaryCTA": {
+            "text": "Get Your Free Audit",
+            "link": "/contact"
+          },
+          "secondaryCTA": {
+            "text": "View Results",
+            "link": "/case-studies"
+          }
+        },
+        {
+          "type": "stats",
+          "backgroundColor": "gray-50",
+          "stats": [
+            {
+              "value": "$2M+",
+              "label": "Ad Spend Managed"
+            },
+            {
+              "value": "10,000+",
+              "label": "Qualified Leads Generated"
+            },
+            {
+              "value": "4.2x",
+              "label": "Average ROAS"
+            }
+          ]
+        },
+        {
+          "type": "problems",
+          "headline": "Are You Struggling With Any Of These?",
+          "problems": [
+            "Wasting money on clicks that never convert",
+            "Getting outbid by competitors with bigger budgets",
+            "No time to manage and optimize campaigns daily",
+            "Leads coming in but they're not the right fit",
+            "Previous agencies over-promised and under-delivered",
+            "Can't track which ads actually drive revenue"
+          ]
+        },
+        {
+          "type": "solution",
+          "backgroundColor": "blue-600",
+          "textColor": "white",
+          "headline": "Here's How I Can Help",
+          "subheadline": "I specialize in local lead generation for service businesses. No fluff, no wasted spend—just campaigns that convert clicks into customers.",
+          "benefits": [
+            {
+              "title": "Local Targeting",
+              "description": "Laser-focused campaigns that reach your ideal customers in your service area"
+            },
+            {
+              "title": "Conversion Optimization",
+              "description": "Constantly testing and refining to maximize your return on ad spend"
+            },
+            {
+              "title": "Transparent Reporting",
+              "description": "Clear, actionable insights so you always know where your money is going"
+            }
+          ]
+        },
+        {
+          "type": "servicesPreview",
+          "headline": "What You Get",
+          "services": [
+            {
+              "title": "Google Search Ads",
+              "description": "Capture high-intent customers actively searching for your services"
+            },
+            {
+              "title": "Local Service Ads",
+              "description": "Appear at the top with the Google Guarantee badge for maximum trust"
+            },
+            {
+              "title": "Display Remarketing",
+              "description": "Stay top-of-mind with prospects who have already shown interest"
+            },
+            {
+              "title": "Landing Page Optimization",
+              "description": "Convert more clicks into leads with high-converting landing pages"
+            },
+            {
+              "title": "Call Tracking & Analytics",
+              "description": "Track every lead source so you know exactly what's working"
+            },
+            {
+              "title": "Ongoing Management",
+              "description": "Daily monitoring and optimization to maximize your results"
+            }
+          ],
+          "ctaText": "View All Services →",
+          "ctaLink": "/services"
+        },
+        {
+          "type": "industries",
+          "backgroundColor": "gray-50",
+          "headline": "Industries I Serve",
+          "industries": [
+            "HVAC",
+            "Plumbing",
+            "Roofing",
+            "Landscaping",
+            "Electricians",
+            "Home Remodeling",
+            "Pest Control",
+            "Cleaning Services"
+          ]
+        },
+        {
+          "type": "finalCTA",
+          "backgroundColor": "gradient-blue",
+          "headline": "Ready To Scale Your Lead Generation?",
+          "subheadline": "Get a free Google Ads audit and discover untapped opportunities in your market.",
+          "ctaText": "Claim Your Free Audit",
+          "ctaLink": "/contact"
+        }
+      ],
+      "schema": ["Organization", "LocalBusiness", "ProfessionalService"]
+    },
+    {
+      "pageType": "services",
+      "url": "/services",
+      "title": "Google Ads Management Services for Service Businesses | LeadGen Ads",
+      "metaDescription": "Comprehensive Google Ads services: Search Ads, Local Service Ads, Remarketing. Transparent pricing starting at $700/month. No long-term contracts required.",
+      "h1": "Google Ads Services",
+      "sections": [
+        {
+          "type": "hero",
+          "backgroundColor": "blue-50-to-white-gradient",
+          "headline": "Google Ads Services",
+          "subheadline": "Comprehensive Google Ads management tailored for local service businesses who need a steady stream of qualified leads."
+        },
+        {
+          "type": "serviceDetailed",
+          "services": [
+            {
+              "name": "Google Search Ads",
+              "badge": "Most Popular",
+              "badgeColor": "blue",
+              "description": "Capture customers at the exact moment they're searching for your services. Search ads put you at the top of Google when prospects are ready to buy.",
+              "included": [
+                "Keyword research and selection",
+                "Competitor analysis and bidding strategy",
+                "Ad copywriting and A/B testing",
+                "Negative keyword management",
+                "Location-based targeting",
+                "Call extension and sitelink optimization"
+              ],
+              "pricing": {
+                "managementFee": "$1,500/mo",
+                "adSpend": "Minimum $1,500/mo",
+                "note": "Starting at"
+              },
+              "ctaText": "Get Started",
+              "ctaLink": "/contact"
+            },
+            {
+              "name": "Local Service Ads",
+              "badge": "High Converting",
+              "badgeColor": "green",
+              "description": "Get the Google Guarantee badge and appear at the very top of search results. Perfect for home service businesses.",
+              "included": [
+                "Profile setup and verification",
+                "Review management and optimization",
+                "Job type and service area configuration",
+                "Budget management and bid optimization",
+                "Lead tracking and quality monitoring",
+                "Dispute management for invalid leads"
+              ],
+              "pricing": {
+                "managementFee": "$800/mo",
+                "adSpend": "Pay per lead (typically $15-$100 per lead)",
+                "note": "Starting at"
+              },
+              "ctaText": "Get Started",
+              "ctaLink": "/contact"
+            },
+            {
+              "name": "Display Remarketing",
+              "badge": "Maximize ROI",
+              "badgeColor": "purple",
+              "description": "Stay top-of-mind with prospects who visited your site but didn't convert. Remarketing ads bring them back when they're ready.",
+              "included": [
+                "Pixel installation and audience creation",
+                "Custom display ad design",
+                "Strategic audience segmentation",
+                "Frequency capping to avoid ad fatigue",
+                "Cross-device targeting",
+                "Performance optimization"
+              ],
+              "pricing": {
+                "managementFee": "$700/mo",
+                "adSpend": "Minimum $500/mo",
+                "note": "Starting at"
+              },
+              "ctaText": "Get Started",
+              "ctaLink": "/contact"
+            }
+          ]
+        },
+        {
+          "type": "additionalServices",
+          "backgroundColor": "gray-50",
+          "headline": "Additional Services",
+          "services": [
+            {
+              "title": "Landing Page Design",
+              "description": "Custom landing pages designed to convert visitors into leads with compelling copy and clear CTAs.",
+              "price": "From $500"
+            },
+            {
+              "title": "Call Tracking",
+              "description": "Track phone calls from your ads to understand which campaigns and keywords drive the most revenue.",
+              "price": "From $99/mo"
+            },
+            {
+              "title": "Conversion Rate Optimization",
+              "description": "A/B testing, heat mapping, and user behavior analysis to maximize conversions from your existing traffic.",
+              "price": "From $800/mo"
+            }
+          ]
+        },
+        {
+          "type": "whatsIncluded",
+          "headline": "What's Included With Every Package",
+          "subheadline": "You get everything you need for successful Google Ads campaigns",
+          "items": [
+            "Account setup & configuration",
+            "Monthly strategy calls",
+            "Weekly performance reports",
+            "Conversion tracking setup",
+            "Ongoing campaign optimization",
+            "A/B testing of ad creative",
+            "Competitor monitoring",
+            "Dedicated account manager"
+          ]
+        },
+        {
+          "type": "process",
+          "backgroundColor": "blue-600",
+          "textColor": "white",
+          "headline": "How It Works",
+          "steps": [
+            {
+              "number": "01",
+              "title": "Discovery Call",
+              "description": "We discuss your business goals, target customers, and current marketing efforts."
+            },
+            {
+              "number": "02",
+              "title": "Strategy Development",
+              "description": "I create a customized Google Ads strategy based on your market and competition."
+            },
+            {
+              "number": "03",
+              "title": "Campaign Launch",
+              "description": "Campaigns go live with careful monitoring to ensure everything is tracking correctly."
+            },
+            {
+              "number": "04",
+              "title": "Optimize & Scale",
+              "description": "Continuous testing and optimization to improve performance and scale what works."
+            }
+          ]
+        },
+        {
+          "type": "finalCTA",
+          "backgroundColor": "gradient-blue",
+          "headline": "Ready To Get Started?",
+          "subheadline": "Schedule a free consultation to discuss which services are right for your business.",
+          "ctaText": "Book Your Free Consultation",
+          "ctaLink": "/contact"
+        }
+      ],
+      "schema": ["Service", "Offer", "PriceSpecification"]
+    },
+    {
+      "pageType": "caseStudies",
+      "url": "/case-studies",
+      "title": "Google Ads Case Studies & Results for Service Businesses",
+      "metaDescription": "Real results from HVAC, plumbing, roofing, and other service businesses. See how we generated 3,587 leads with 6.8x average ROAS.",
+      "h1": "Real Results From Real Businesses",
+      "sections": [
+        {
+          "type": "hero",
+          "backgroundColor": "blue-50-to-white-gradient",
+          "headline": "Real Results From Real Businesses",
+          "subheadline": "See how I've helped service-based businesses transform their lead generation with strategic Google Ads campaigns."
+        },
+        {
+          "type": "caseStudyList",
+          "caseStudies": [
+            {
+              "industry": "HVAC",
+              "company": "CoolAir Heating & Cooling",
+              "location": "Phoenix, AZ",
+              "challenge": "Seasonal business struggling to generate consistent leads year-round, especially during slower months.",
+              "solution": "Implemented a comprehensive Google Search and Local Service Ads strategy with seasonal budget adjustments and targeted messaging for both heating and cooling services.",
+              "results": [
+                { "metric": "Leads Generated", "value": "847", "period": "12 months" },
+                { "metric": "Cost Per Lead", "value": "$42", "period": "avg" },
+                { "metric": "Revenue Increase", "value": "+215%", "period": "year over year" },
+                { "metric": "ROAS", "value": "5.8x", "period": "overall" }
+              ],
+              "testimonial": "Working with this specialist transformed our business. We went from feast or famine to having a consistent pipeline of qualified leads every single month.",
+              "author": "Mike Stevens, Owner"
+            },
+            {
+              "industry": "Plumbing",
+              "company": "Premier Plumbing Solutions",
+              "location": "Austin, TX",
+              "challenge": "High competition in local market with multiple established competitors outbidding on key search terms.",
+              "solution": "Focused on long-tail keywords and service-specific campaigns while optimizing Quality Score to reduce CPC and improve ad position.",
+              "results": [
+                { "metric": "Leads Generated", "value": "1,240", "period": "12 months" },
+                { "metric": "Cost Per Lead", "value": "$38", "period": "avg" },
+                { "metric": "Call Volume", "value": "+340%", "period": "increase" },
+                { "metric": "ROAS", "value": "6.2x", "period": "overall" }
+              ],
+              "testimonial": "I was skeptical about Google Ads at first, but the results speak for themselves. We're now booking out 2-3 weeks in advance.",
+              "author": "Carlos Rodriguez, Operations Manager"
+            },
+            {
+              "industry": "Roofing",
+              "company": "Summit Roofing & Restoration",
+              "location": "Denver, CO",
+              "challenge": "Lead quality was poor with previous agency - getting tire-kickers instead of serious buyers ready to invest in roof replacement.",
+              "solution": "Implemented strict negative keyword lists, created separate campaigns for emergency repairs vs. full replacements, and added qualification questions in ad copy.",
+              "results": [
+                { "metric": "Leads Generated", "value": "432", "period": "12 months" },
+                { "metric": "Lead Quality", "value": "+180%", "period": "improvement" },
+                { "metric": "Close Rate", "value": "35%", "period": "from 12%" },
+                { "metric": "Revenue", "value": "$1.2M", "period": "attributed" }
+              ],
+              "testimonial": "Finally, someone who understands that it's not about volume - it's about quality. Every lead we get now is pre-qualified and serious.",
+              "author": "Jennifer Walsh, Owner"
+            }
+          ]
+        },
+        {
+          "type": "combinedResults",
+          "backgroundColor": "gray-900",
+          "textColor": "white",
+          "headline": "Combined Results Across All Clients",
+          "stats": [
+            { "value": "3,587", "label": "Total Leads Generated" },
+            { "value": "$2.1M", "label": "Ad Spend Managed" },
+            { "value": "6.8x", "label": "Average ROAS" },
+            { "value": "$39", "label": "Average Cost Per Lead" }
+          ]
+        }
+      ],
+      "schema": ["Review", "AggregateRating"]
+    }
+  ],
+  "buildNotes": {
+    "navigation": "Consistent across all pages with active state highlighting",
+    "footer": "4-column layout with industries, services, company, contact",
+    "mobileOptimization": "All pages must be mobile-responsive with tap-to-call buttons",
+    "ctaStrategy": "Primary CTA (blue button) on every page above fold and at bottom",
+    "internalLinking": "Cross-link between related pages, especially industry pages to services",
+    "imageOptimization": "Use WebP format, lazy loading, alt tags with keywords"
+  }
+}

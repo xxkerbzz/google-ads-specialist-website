@@ -1,0 +1,322 @@
+{
+  "siloName": "Industry-Specific Google Ads",
+  "siloNumber": 1,
+  "siloPurpose": "Establish domain authority for industry-specific Google Ads strategies",
+  "targetAudience": "Owners and marketing managers of service-based businesses",
+  "contentPriority": "Tier 1 - Highest",
+  "estimatedTraffic": "5,000+ visitors/month by month 12",
+
+  "pillars": [
+    {
+      "pillarNumber": 1,
+      "title": "Google Ads for HVAC Companies",
+      "url": "/google-ads-for-hvac",
+      "primaryKeyword": "google ads for hvac companies",
+      "secondaryKeywords": ["hvac google ads", "hvac lead generation", "hvac advertising", "google ads for hvac contractors"],
+      "searchIntent": "Commercial - HVAC business owners seeking Google Ads help",
+      "wordCount": "3,000-3,500",
+      "h1": "Google Ads for HVAC Companies: Complete Lead Generation Guide",
+      "metaTitle": "Google Ads for HVAC Companies | Generate More HVAC Leads",
+      "metaDescription": "Expert Google Ads management for HVAC companies. Generate qualified heating and cooling leads year-round. Proven strategies, transparent pricing, no contracts.",
+
+      "contentOutline": {
+        "introduction": {
+          "paragraphs": 2,
+          "topics": ["HVAC market challenges", "Why Google Ads works for HVAC"],
+          "wordCount": "200-300"
+        },
+        "sections": [
+          {
+            "h2": "Why HVAC Companies Need Google Ads",
+            "topics": ["High-intent searches", "Local competition", "Seasonal fluctuations"],
+            "wordCount": "400-500"
+          },
+          {
+            "h2": "HVAC-Specific Challenges We Solve",
+            "problems": [
+              "Seasonal demand variations (heating vs cooling)",
+              "Emergency vs planned service differentiation",
+              "High competition during peak seasons",
+              "Budget allocation between services",
+              "Lead quality issues",
+              "Tracking offline conversions"
+            ],
+            "wordCount": "500-600"
+          },
+          {
+            "h2": "Our Google Ads Strategy for HVAC Companies",
+            "subsections": [
+              "Seasonal campaign structure",
+              "Emergency service targeting",
+              "Maintenance contract campaigns",
+              "Geo-targeting for service areas",
+              "Mobile optimization for emergency calls"
+            ],
+            "wordCount": "600-700"
+          },
+          {
+            "h2": "HVAC Google Ads Services We Offer",
+            "services": [
+              "Google Search Ads for HVAC",
+              "Local Service Ads with Google Guarantee",
+              "Call-only campaigns for emergencies",
+              "Seasonal remarketing",
+              "Landing page optimization"
+            ],
+            "wordCount": "400-500",
+            "includeLinks": ["Link to /services page", "Link to LSA guide"]
+          },
+          {
+            "h2": "HVAC Google Ads Success Story",
+            "caseStudy": "CoolAir Heating & Cooling",
+            "results": ["847 leads in 12 months", "$42 avg CPL", "5.8x ROAS", "+215% revenue"],
+            "wordCount": "300-400",
+            "includeLink": "Link to full case study"
+          },
+          {
+            "h2": "HVAC Google Ads Budget Guidelines",
+            "topics": ["Recommended minimum spend", "Seasonal budget allocation", "Expected CPL ranges", "ROI expectations"],
+            "wordCount": "400-500",
+            "includeLink": "Link to budget planning guide"
+          },
+          {
+            "h2": "Common HVAC Google Ads Mistakes to Avoid",
+            "mistakes": [
+              "Not separating heating and cooling campaigns",
+              "Ignoring mobile optimization",
+              "Poor emergency service targeting",
+              "Weak negative keyword lists",
+              "Not tracking phone calls"
+            ],
+            "wordCount": "400-500"
+          },
+          {
+            "h2": "Frequently Asked Questions",
+            "faqs": [
+              {
+                "question": "How much should HVAC companies spend on Google Ads?",
+                "answer": "Minimum $1,500-2,000/month for meaningful results, scaling up during peak seasons"
+              },
+              {
+                "question": "What's a good cost per lead for HVAC?",
+                "answer": "$30-$80 depending on service type and market competition"
+              },
+              {
+                "question": "Should I use Google Guarantee Local Service Ads?",
+                "answer": "Yes, LSA typically generates high-quality leads with Google's trust badge"
+              },
+              {
+                "question": "How do I handle seasonal demand changes?",
+                "answer": "Adjust budgets seasonally and maintain separate heating/cooling campaigns"
+              },
+              {
+                "question": "Can Google Ads work for HVAC maintenance contracts?",
+                "answer": "Yes, with targeted campaigns focused on preventive maintenance benefits"
+              }
+            ],
+            "wordCount": "400-500"
+          }
+        ],
+        "conclusion": {
+          "topics": ["Summary of benefits", "Next steps", "CTA to contact"],
+          "wordCount": "200-300"
+        }
+      },
+
+      "conversionElements": [
+        {
+          "type": "heroCTA",
+          "text": "Get Your Free HVAC Ads Audit",
+          "location": "Top of page"
+        },
+        {
+          "type": "caseStudyCallout",
+          "text": "See how we generated 847 HVAC leads",
+          "location": "After strategy section"
+        },
+        {
+          "type": "inlineCTA",
+          "text": "Schedule a free consultation",
+          "location": "After services section"
+        },
+        {
+          "type": "finalCTA",
+          "text": "Start generating more HVAC leads today",
+          "location": "Bottom of page"
+        }
+      ],
+
+      "internalLinks": [
+        { "to": "/services", "anchor": "View our HVAC Google Ads services" },
+        { "to": "/case-studies", "anchor": "Read HVAC success stories" },
+        { "to": "/resources/hvac/hvac-lead-generation-strategies", "anchor": "HVAC lead generation guide" },
+        { "to": "/resources/hvac/best-google-ads-keywords-for-hvac", "anchor": "Best HVAC keywords" },
+        { "to": "/resources/hvac/hvac-seasonal-advertising-tips", "anchor": "Seasonal advertising tips" },
+        { "to": "/resources/campaigns/local-service-ads-guide", "anchor": "Local Service Ads guide" },
+        { "to": "/resources/budget/hvac-budget-planning", "anchor": "HVAC budget planning" }
+      ],
+
+      "schema": {
+        "types": ["Article", "Service", "FAQPage"],
+        "author": "LeadGen Ads",
+        "datePublished": "2024-11-29",
+        "articleSection": "Google Ads for Service Industries"
+      }
+    },
+
+    {
+      "pillarNumber": 2,
+      "title": "Google Ads for Plumbing Companies",
+      "url": "/google-ads-for-plumbing",
+      "primaryKeyword": "google ads for plumbing companies",
+      "secondaryKeywords": ["plumbing google ads", "plumber advertising", "plumbing lead generation"],
+      "h1": "Google Ads for Plumbing Companies: Generate Quality Leads",
+      "metaTitle": "Google Ads for Plumbing Companies | Plumber Lead Generation",
+      "metaDescription": "Expert Google Ads for plumbers. Generate emergency and scheduled plumbing leads with proven strategies. Transparent pricing, no long-term contracts.",
+      "wordCount": "3,000-3,500",
+      "focusAreas": ["Emergency vs scheduled services", "Call-only campaigns", "Service area targeting", "24/7 advertising"],
+      "caseStudy": "Premier Plumbing Solutions - 1,240 leads, $38 CPL, 6.2x ROAS"
+    },
+
+    {
+      "pillarNumber": 3,
+      "title": "Google Ads for Electrical Contractors",
+      "url": "/google-ads-for-electrical",
+      "primaryKeyword": "google ads for electricians",
+      "h1": "Google Ads for Electrical Contractors: Expert Lead Generation",
+      "wordCount": "3,000-3,500",
+      "focusAreas": ["Residential vs commercial", "Emergency electrical services", "Google Guarantee setup", "Bid strategies"]
+    },
+
+    {
+      "pillarNumber": 4,
+      "title": "Google Ads for Roofing Companies",
+      "url": "/google-ads-for-roofing",
+      "primaryKeyword": "google ads for roofers",
+      "h1": "Google Ads for Roofing Companies: Generate High-Quality Leads",
+      "wordCount": "3,000-3,500",
+      "focusAreas": ["Storm damage marketing", "Roof replacement vs repair", "Lead quality optimization", "Competitor targeting"],
+      "caseStudy": "Summit Roofing - 432 leads, 35% close rate, $1.2M revenue"
+    },
+
+    {
+      "pillarNumber": 5,
+      "title": "Google Ads for Landscaping Businesses",
+      "url": "/google-ads-for-landscaping",
+      "primaryKeyword": "google ads for landscaping companies",
+      "h1": "Google Ads for Landscaping Businesses: Grow Your Client Base",
+      "wordCount": "3,000-3,500",
+      "focusAreas": ["Seasonal campaigns", "Design vs maintenance", "Commercial landscaping", "Visual ad strategies"]
+    },
+
+    {
+      "pillarNumber": 6,
+      "title": "Google Ads for Home Remodeling",
+      "url": "/google-ads-for-home-remodeling",
+      "primaryKeyword": "google ads for remodeling contractors",
+      "h1": "Google Ads for Home Remodeling: High-Ticket Lead Generation",
+      "wordCount": "3,000-3,500",
+      "focusAreas": ["Kitchen & bathroom focus", "High-ticket services", "Project showcase ads", "Lead qualification"]
+    }
+  ],
+
+  "supportingContent": [
+    {
+      "pillarParent": "HVAC",
+      "articles": [
+        {
+          "title": "HVAC Lead Generation Strategies with Google Ads",
+          "url": "/resources/hvac/hvac-lead-generation-strategies",
+          "primaryKeyword": "hvac lead generation",
+          "wordCount": "1,800-2,200",
+          "focus": "Comprehensive strategy overview, seasonal tactics",
+          "h1": "HVAC Lead Generation Strategies That Actually Work",
+          "sections": ["Emergency service campaigns", "Maintenance contracts", "Seasonal strategies", "Budget allocation"]
+        },
+        {
+          "title": "Best Google Ads Keywords for HVAC Services",
+          "url": "/resources/hvac/best-google-ads-keywords-for-hvac",
+          "primaryKeyword": "hvac keywords google ads",
+          "wordCount": "1,500-2,000",
+          "focus": "Keyword research, intent matching, negative keywords",
+          "h1": "Best Google Ads Keywords for HVAC Companies [2024]"
+        },
+        {
+          "title": "HVAC Seasonal Advertising: Heating vs Cooling Campaigns",
+          "url": "/resources/hvac/hvac-seasonal-advertising-tips",
+          "primaryKeyword": "hvac seasonal advertising",
+          "wordCount": "1,600-2,000",
+          "focus": "Budget allocation by season, campaign structure",
+          "h1": "HVAC Seasonal Advertising Guide: Maximizing Year-Round Revenue"
+        },
+        {
+          "title": "Google Ads Budget Planning for HVAC Companies",
+          "url": "/resources/hvac/hvac-google-ads-budget",
+          "primaryKeyword": "hvac google ads budget",
+          "wordCount": "1,400-1,800",
+          "focus": "Cost expectations, ROI targets, scaling strategies",
+          "h1": "How Much Should HVAC Companies Spend on Google Ads?"
+        },
+        {
+          "title": "Local Service Ads Setup for HVAC Contractors",
+          "url": "/resources/hvac/hvac-local-service-ads",
+          "primaryKeyword": "hvac local service ads",
+          "wordCount": "1,600-2,000",
+          "focus": "LSA specific for HVAC, Google Guarantee setup",
+          "h1": "Local Service Ads for HVAC: Complete Setup Guide"
+        }
+      ]
+    }
+  ],
+
+  "buildPhasing": {
+    "phase1": {
+      "timeframe": "Month 1-2",
+      "content": ["All 6 industry pillars"],
+      "priority": "Critical - Build foundation"
+    },
+    "phase2": {
+      "timeframe": "Month 3-4",
+      "content": ["Top 3 supporting articles per industry (18 total)"],
+      "priority": "High - Support pillars"
+    },
+    "phase3": {
+      "timeframe": "Month 5-6",
+      "content": ["Remaining supporting articles (12 total)"],
+      "priority": "Medium - Complete silo"
+    }
+  },
+
+  "seoStrategy": {
+    "pillarPageOptimization": {
+      "titleFormat": "[Industry] Google Ads | Generate Quality Leads | LeadGen Ads",
+      "metaDescriptionLength": "155-160 characters",
+      "h1Format": "Google Ads for [Industry]: [Benefit]",
+      "wordCountTarget": "3,000-3,500",
+      "imageCount": "6-8 images per pillar",
+      "schemaTypes": ["Article", "Service", "FAQPage"]
+    },
+    "internalLinkingRules": {
+      "pillarToSpokes": "Link to all supporting articles in relevant sections",
+      "spokeToPillar": "Every supporting article links back to pillar in intro and conclusion",
+      "crossSpokeLinks": "2-3 links between related supporting articles",
+      "externalLinks": "Link to services page, case studies, and cross-silo content"
+    }
+  },
+
+  "successMetrics": {
+    "pillarPages": {
+      "organicTraffic": "500+ visitors/month per pillar by month 6",
+      "keywordRankings": "Top 3 for primary keyword by month 9-12",
+      "timeOnPage": "3+ minutes average",
+      "conversionRate": "4-6% to contact form",
+      "backlinks": "5+ quality backlinks per pillar"
+    },
+    "overallSilo": {
+      "totalTraffic": "5,000+ visitors/month by month 12",
+      "keywordsRanking": "50+ keywords in top 10",
+      "leadGeneration": "15-20% of total website leads",
+      "authorityScore": "+10 points increase"
+    }
+  }
+}
